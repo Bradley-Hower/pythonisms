@@ -22,8 +22,10 @@ Sets the max.
 
 Creates iterables according to max.
 
+```
 print(next(i))
 print(next(i))
+```
 
 Prints the next iteration, each time.
 
